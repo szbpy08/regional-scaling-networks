@@ -1,0 +1,13 @@
+variant,model,mass_col,n_pairs,b,b_saved,diff,error_class,warnings
+CZ_nodiag,gravity_power,population,182,1.1763077877892487,1.1763077877892487,0.0,,FutureWarning;SingularMatrixWarning
+CZ_nodiag,gravity_exp,population,182,1.7685546180457965,1.7685546180457965,0.0,,FutureWarning;SingularMatrixWarning
+CZ_nodiag,gravity_power,gdp_total,182,0.7818968674340498,,,,FutureWarning;SingularMatrixWarning
+CZ_nodiag,gravity_exp,gdp_total,182,1.1032955211225015,,,,FutureWarning;SingularMatrixWarning
+CZ_nodiag,gravity_power,active_enterprises,182,0.8353942774981782,,,,FutureWarning;SingularMatrixWarning
+CZ_nodiag,gravity_exp,active_enterprises,182,1.1827806833219257,,,,FutureWarning;SingularMatrixWarning
+PL_main,gravity_power,population,3209,2.0440108041929905,2.0440108041929905,0.0,,FutureWarning;SingularMatrixWarning
+PL_main,gravity_exp,population,3209,2.409169756987874,2.409169756987874,0.0,,FutureWarning;SingularMatrixWarning
+PL_main,gravity_power,gdp_total,3209,1.1478897568693365,,,,FutureWarning;SingularMatrixWarning
+PL_main,gravity_exp,gdp_total,3209,1.3758255284777134,,,,FutureWarning;SingularMatrixWarning
+PL_main,gravity_power,active_enterprises,3209,1.290087706681397,,,,FutureWarning;SingularMatrixWarning
+PL_main,gravity_exp,active_enterprises,3209,1.5488312190554443,,,,FutureWarning;SingularMatrixWarning

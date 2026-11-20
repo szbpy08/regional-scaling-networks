@@ -1,0 +1,9 @@
+variant,model,deterrence_func_type,gravity_type,gamma,origin_exp,destination_exp,fit_error,fit_warnings
+missing0,gravity_power_UM,power_law,globally constrained,-1.5782847121468309,0.4159676711754794,2.173384299061359,,FutureWarning
+missing0,gravity_power_PCM,power_law,singly constrained,-2.2015180743305023,1.0,2.189014994615225,,FutureWarning;SingularMatrixWarning
+missing0,gravity_exp_UM,exponential,globally constrained,0.02724211795987274,0.5916414969724375,2.0271482197424846,,FutureWarning
+missing0,gravity_exp_PCM,exponential,singly constrained,,,,ValueError,FutureWarning;RuntimeWarning
+missing2,gravity_power_UM,power_law,globally constrained,-1.5763329592291395,0.41385520741450255,2.167800951469717,,FutureWarning
+missing2,gravity_power_PCM,power_law,singly constrained,-2.192219260776712,1.0,2.1779078813964077,,FutureWarning;SingularMatrixWarning
+missing2,gravity_exp_UM,exponential,globally constrained,0.026981983589168083,0.5953082327642192,2.0264714975654563,,FutureWarning
+missing2,gravity_exp_PCM,exponential,singly constrained,,,,ValueError,FutureWarning;RuntimeWarning

@@ -1,0 +1,5 @@
+country,model,deterrence_func_type,gamma,destination_exp
+CZ,gravity_power,power_law,-1.81964597911816,1.1763077877892487
+CZ,gravity_exp,exponential,0.0267355658196303,1.7685546180457965
+PL,gravity_power,power_law,-2.0768256441766657,2.0440108041929905
+PL,gravity_exp,exponential,0.0261256468141811,2.409169756987874

@@ -1,0 +1,5 @@
+country,model,b_pop_base,b_pop_new,diff_base_minus_new,b_saved,b_lo,b_hi,ci_width,diff_share_of_ci_width,base_inside_ci
+CZ,gravity_exp,1.778808,1.768555,0.010253,1.768555,0.109745,2.656072,2.546327,0.004027,True
+CZ,gravity_power,1.177637,1.176308,0.001329,1.176308,0.116916,2.084632,1.967716,0.000675,True
+PL,gravity_exp,2.433296,2.40917,0.024127,2.40917,1.418084,2.875625,1.457541,0.016553,True
+PL,gravity_power,2.066251,2.044011,0.02224,2.044011,0.987339,2.45891,1.471571,0.015113,True

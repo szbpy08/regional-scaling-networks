@@ -1,0 +1,7 @@
+level,method,communities,nuts3_regions,modularity_communities,modularity_nuts3,inside_share_communities,inside_share_nuts3,nmi,ari
+CZ,leiden,14,14,0.7917,0.6971,0.8941,0.7871,0.859,0.763
+CZ,louvain,14,14,0.7901,0.6971,0.8885,0.7871,0.856,0.7627
+CZ,cnm,14,14,0.79,0.6971,0.8958,0.7871,0.8439,0.7606
+PL,leiden,20,73,0.8186,0.5738,0.8902,0.5914,0.7548,0.3555
+PL,louvain,20,73,0.8176,0.5738,0.8901,0.5914,0.7526,0.3534
+PL,cnm,20,73,0.8162,0.5738,0.8926,0.5914,0.7454,0.3319

@@ -1,0 +1,37 @@
+# Data: never published, created by the scripts and notebooks
+data/
+
+# Working outputs created when the notebooks are run
+# (the published results are in tables/ and figures/)
+results/
+plots/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# Local environments (if created inside the project)
+.conda/
+venv/
+env/
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Logs
+logs/
+*.log
+
+# Secrets (API keys etc.)
+.env
+
+# Temporary files of the publication checks
+check_report.txt
+tmp_logo/

@@ -1,0 +1,28 @@
+name: nuts3-scaling
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - osmnx
+  - geopandas
+  - networkx
+  - pandas
+  - numpy
+  - scipy
+  - matplotlib
+  - matplotlib-scalebar
+  - jupyterlab
+  - seaborn
+  - folium
+  - contextily
+  - momepy
+  - pysal
+  - shapely
+  - scikit-learn
+  - spaghetti
+  - statsmodels
+  - pyarrow
+  - pandoc
+  - pyrosm
+  - osmium-tool
+  - powerlaw

@@ -1,0 +1,5 @@
+model,deterrence_func_type,gamma,origin_exp,destination_exp,gravity_type,fit_warnings
+gravity_power_UM,power_law,-1.5198612336641897,0.07752895423497175,1.0914496594837397,globally constrained,FutureWarning
+gravity_power_PCM,power_law,-1.8196459791181598,1.0,1.1763077877892487,singly constrained,FutureWarning;SingularMatrixWarning
+gravity_exp_UM,exponential,0.025871950495657506,0.8549913431180718,1.6771506553381854,globally constrained,FutureWarning
+gravity_exp_PCM,exponential,0.026735565819630377,1.0,1.7685546180457965,singly constrained,FutureWarning;SingularMatrixWarning

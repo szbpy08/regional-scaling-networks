@@ -1,0 +1,19 @@
+name: nuts3_tdlm
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - numpy
+  - pandas
+  - scipy
+  - statsmodels
+  - matplotlib
+  - geopandas
+  - pyarrow
+  - openpyxl
+  - requests
+  - networkx
+  - tabulate
+  - tqdm
+  - ipykernel
+  - pytdlm

@@ -1,0 +1,3 @@
+level,nodes,edges,total_weight,directed_pairs,components,largest_component_nodes
+CZ,6258,180924,2029425,221720,1,6258
+PL,2477,54440,4579981,75557,1,2477
